@@ -1,1 +1,1 @@
-
+You can read here about server (node.js) configuring and initializing process
